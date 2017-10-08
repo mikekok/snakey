@@ -11,6 +11,7 @@ Each URL is saved into a MongoDB using a unique, randomized token.
 * `npm install` (you need to have nodejs and npm already installed)
 
 ## Instructions
+* Change the host, port and mongodb connection string, which are located in the .env file
 * Run your project in development mode using: `gulp`
 
 ## Credits

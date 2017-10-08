@@ -14,7 +14,7 @@ Each URL is saved into a MongoDB using a unique, randomized token.
 * Change the `host`, `port` and `mongodb connection string`, which are located in the .env file
 * Run your project in development mode using: `gulp`
 
-## Credits
+## Attribution
 Logo made by ![Freepik](http://www.freepik.com) from ![www.flaticon.com](https://www.flaticon.com).
 
 ## License

@@ -1,0 +1,29 @@
+{
+  "name": "snakey",
+  "version": "1.0.0",
+  "description": "A Modern URL Shortener",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Kokkolios",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "browser-sync": "^2.18.13",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.1",
+    "express-handlebars": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-csso": "^3.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "mongoose": "^4.10.8",
+    "randomstring": "^1.1.5",
+    "yargs": "^9.0.1"
+  }
+}

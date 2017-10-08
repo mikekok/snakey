@@ -1,5 +1,6 @@
 # Snakey
 A modern URL shortener written in NodeJS.
+
 Each URL is saved into a MongoDB using a unique, randomized token.
 
 ## Preview
